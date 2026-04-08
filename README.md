@@ -225,7 +225,7 @@ Customers are evenly distributed across 10 countries:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Repoted by
 
 **M A Vishwanatha**
 Certified Data Analyst
